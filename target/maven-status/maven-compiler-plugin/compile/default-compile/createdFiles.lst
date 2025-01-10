@@ -1,0 +1,14 @@
+generation\invoices\dto\OverdueFeeDto.class
+generation\invoices\service\implementation\InvoiceGenerationImplementation.class
+generation\invoices\entity\ResponseEntity.class
+generation\invoices\enums\InvoiceEnum.class
+generation\invoices\dto\InvoiceDto.class
+generation\invoices\invoicesConfiguration.class
+generation\invoices\dao\InvoiceDao.class
+generation\invoices\dto\AmountDto.class
+generation\invoices\repository\InvoiceRepository.class
+generation\invoices\invoicesApplication.class
+generation\invoices\service\InvoiceGeneration.class
+generation\invoices\entity\Invoice.class
+generation\invoices\resources\InvoiceResource.class
+generation\invoices\dto\AddInvoiceDto.class

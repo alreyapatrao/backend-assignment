@@ -1,0 +1,14 @@
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\dao\InvoiceDao.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\dto\AddInvoiceDto.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\dto\AmountDto.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\dto\InvoiceDto.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\dto\OverdueFeeDto.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\entity\Invoice.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\entity\ResponseEntity.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\enums\InvoiceEnum.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\invoicesApplication.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\invoicesConfiguration.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\repository\InvoiceRepository.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\resources\InvoiceResource.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\service\implementation\InvoiceGenerationImplementation.java
+C:\Users\alepa\Documents\workspace\invoices\src\main\java\generation\invoices\service\InvoiceGeneration.java
