@@ -7,7 +7,6 @@ database:
  driverClass: org.postgresql.Driver
  user: postgres
  password: 12345
- url: jdbc:postgresql://db:5432/invoices
- 
- swagger:
-   resourcePackage: generation.invoices.resources
+ url: jdbc:postgresql://localhost:5432/invoices
+swagger:
+  resourcePackage: generation.invoices.resources

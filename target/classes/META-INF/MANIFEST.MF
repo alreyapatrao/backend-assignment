@@ -1,0 +1,56 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: dropwizard-core-4.0.10.jar dropwizard-util-4.0.10.jar dropwi
+ zard-jackson-4.0.10.jar guava-33.3.1-jre.jar failureaccess-1.0.2.jar li
+ stenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar j2objc-ann
+ otations-3.0.0.jar caffeine-3.1.8.jar jackson-core-2.17.2.jar jackson-d
+ atatype-guava-2.17.2.jar jackson-datatype-jsr310-2.17.2.jar jackson-dat
+ atype-jdk8-2.17.2.jar jackson-module-parameter-names-2.17.2.jar jackson
+ -module-blackbird-2.17.2.jar dropwizard-validation-4.0.10.jar jakarta.e
+ l-4.0.2.jar jakarta.el-api-4.0.0.jar dropwizard-configuration-4.0.10.ja
+ r jackson-dataformat-yaml-2.17.2.jar commons-text-1.12.0.jar dropwizard
+ -logging-4.0.10.jar metrics-logback-4.2.28.jar jul-to-slf4j-2.0.16.jar 
+ logback-core-1.4.14.jar error_prone_annotations-2.31.0.jar logback-thro
+ ttling-appender-1.4.2.jar log4j-over-slf4j-2.0.16.jar jcl-over-slf4j-2.
+ 0.16.jar dropwizard-metrics-4.0.10.jar dropwizard-jersey-4.0.10.jar jer
+ sey-metainf-services-3.0.16.jar jersey-hk2-3.0.16.jar hk2-locator-3.0.6
+ .jar metrics-jersey3-4.2.28.jar jakarta.annotation-api-2.0.0.jar hk2-ap
+ i-3.0.6.jar hk2-utils-3.0.6.jar aopalliance-repackaged-3.0.6.jar jersey
+ -container-servlet-3.0.16.jar jetty-io-11.0.24.jar dropwizard-servlets-
+ 4.0.10.jar dropwizard-jetty-4.0.10.jar jetty-servlets-11.0.24.jar jetty
+ -http-11.0.24.jar dropwizard-lifecycle-4.0.10.jar dropwizard-health-4.0
+ .10.jar metrics-core-4.2.28.jar metrics-jetty11-4.2.28.jar metrics-anno
+ tation-4.2.28.jar metrics-jvm-4.2.28.jar metrics-jmx-4.2.28.jar metrics
+ -jakarta-servlets-4.2.28.jar metrics-json-4.2.28.jar profiler-1.1.1.jar
+  metrics-healthchecks-4.2.28.jar dropwizard-request-logging-4.0.10.jar 
+ logback-access-1.4.14.jar logback-classic-1.4.14.jar jackson-databind-2
+ .17.2.jar checker-qual-3.48.1.jar jakarta.servlet-api-5.0.0.jar jakarta
+ .ws.rs-api-3.0.0.jar argparse4j-0.9.0.jar jetty-security-11.0.24.jar je
+ tty-server-11.0.24.jar jetty-servlet-11.0.24.jar jetty-util-11.0.24.jar
+  jetty-setuid-java-1.0.4.jar jakarta.inject-api-2.0.1.MR.jar jersey-com
+ mon-3.0.16.jar osgi-resource-locator-1.0.3.jar jersey-bean-validation-3
+ .0.16.jar slf4j-api-2.0.16.jar jackson-annotations-2.17.2.jar jakarta.v
+ alidation-api-3.0.2.jar hibernate-validator-7.0.5.Final.jar jboss-loggi
+ ng-3.6.1.Final.jar classmate-1.7.0.jar swagger-annotations-1.6.14.jar j
+ ackson-jakarta-rs-json-provider-2.17.2.jar jackson-jakarta-rs-base-2.17
+ .2.jar jackson-module-jakarta-xmlbind-annotations-2.17.2.jar jersey-con
+ tainer-servlet-core-3.0.16.jar jersey-client-3.0.16.jar jersey-server-3
+ .0.16.jar jakarta.activation-api-2.0.1.jar jakarta.xml.bind-api-3.0.1.j
+ ar jakarta.activation-2.0.1.jar dalesbred-1.3.6.jar kotlin-stdlib-1.9.2
+ 3.jar dropwizard-db-4.0.10.jar tomcat-jdbc-10.1.31.jar tomcat-juli-10.1
+ .31.jar postgresql-42.2.24.jar dalesbred-junit-1.3.6.jar javax.inject-1
+ .jar annotations-22.0.0.jar dropwizard-swagger-4.0.0-1.jar dropwizard-a
+ uth-4.0.10.jar metrics-caffeine-4.2.28.jar dropwizard-assets-4.0.10.jar
+  dropwizard-views-4.0.10.jar dropwizard-views-freemarker-4.0.10.jar fre
+ emarker-2.3.33.jar jersey-media-multipart-3.0.16.jar mimepull-1.9.15.ja
+ r swagger-jaxrs2-jakarta-2.2.9.jar swagger-models-jakarta-2.2.9.jar sna
+ keyaml-2.0.jar swagger-annotations-jakarta-2.2.9.jar swagger-integratio
+ n-jakarta-2.2.9.jar swagger-core-jakarta-2.2.9.jar swagger-jaxrs2-2.1.1
+ 0.jar classgraph-4.8.95.jar javassist-3.30.2-GA.jar swagger-models-2.1.
+ 10.jar swagger-annotations-2.1.10.jar jackson-jaxrs-json-provider-2.17.
+ 2.jar jackson-jaxrs-base-2.17.2.jar jackson-module-jaxb-annotations-2.1
+ 7.2.jar swagger-integration-2.1.10.jar swagger-core-2.1.10.jar commons-
+ lang3-3.17.0.jar swagger-jaxrs2-servlet-initializer-2.1.10.jar
+Main-Class: generation.invoices.invoicesApplication
+Created-By: Maven Integration for Eclipse
+

@@ -4,14 +4,11 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import io.dropwizard.core.Configuration;
 import io.dropwizard.db.DataSourceFactory;
+import io.federecio.dropwizard.swagger.SwaggerBundleConfiguration;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
 
 public class invoicesConfiguration extends Configuration {
-
-
-    
-
     @Valid
     @NotNull
     private DataSourceFactory database = new DataSourceFactory();
@@ -26,6 +23,7 @@ public class invoicesConfiguration extends Configuration {
         return database;
     }
 
-    
+    @JsonProperty("swagger")
+    public SwaggerBundleConfiguration swaggerBundleConfiguration;
 
 }
