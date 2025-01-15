@@ -108,7 +108,7 @@ public class InvoiceRepository implements InvoiceDao {
 
 			int id = addInvoice(updatedInvoice);
 			invoice.setId(id);
-			invoice.setStatus(updatedState);
+			invoice.setStatus(InvoiceEnum.PENDING);
 			invoice.setAmount(updatedAmount);
 			invoice.setDueDate(updatedDate);
 		}
